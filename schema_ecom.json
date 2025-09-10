@@ -1,0 +1,18 @@
+{
+  "Reviews":[
+    {
+      "ReviewID": "String",
+      "CustomerID": "String",
+      "Rating":"String"
+    }
+  
+  
+  ],
+  "Customers":[
+    {
+      "CustomerID": "String",
+      "Name": "String",
+      "Email": "String"
+    }
+  ]
+}
