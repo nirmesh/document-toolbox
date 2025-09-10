@@ -1,0 +1,16 @@
+# Core dependencies
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# For Word document parsing
+python-docx>=0.8.11
+unstructured>=0.14.6
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# HTTP requests to Groq API and MCP endpoint
+requests>=2.31.0
+
+# FastMCP server for Claude integration
+fastmcp>=0.2.0

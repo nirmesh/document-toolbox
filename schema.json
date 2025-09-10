@@ -1,0 +1,19 @@
+{
+  "company": "string",
+  "name":"string",
+  "billinginformation": "string",
+  "merchant": {
+    "name": "string",
+    "address": {
+      "street": "string",
+      "city": "string",
+      "state": "string",
+      "postalCode": "string",
+      "country": "string"
+    },
+    "phone": "string",
+    "items": "string",
+    "total": "string"
+  },
+  "billTo": "string"
+}

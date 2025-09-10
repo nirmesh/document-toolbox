@@ -8,6 +8,7 @@ and optionally push results to a Modex Context Protocol (MCP) HTTP endpoint.
 
 Requirements:
   pip install pandas openpyxl python-dotenv requests
+  pip install -r requirements.txt
 
 Usage:
   export GROQ_API_KEY="..."
